@@ -5,6 +5,7 @@ Also see: [Features List](https://www.visualstudio.com/vs/features/) | [Release 
 
 ## Launch Resources (3/2017)
 * [Visual Studio Team Blog: Announcing Visual Studio 2017 General Availability… and more](https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/announcing-visual-studio-2017-general-availability-and-more/)
+* [Channel 9: Visual Studio 2017 Keynotes & on-demand technical videos](http://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/)
 
 ## Related Products
 * [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
