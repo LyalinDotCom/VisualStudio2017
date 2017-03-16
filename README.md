@@ -52,21 +52,21 @@ _Please note that Visual Studio 2017 is referenced as "Dev15" or Visual Studio "
 ## Videos
 * [Channel 9: Visual Studio 2017 Keynotes & on-demand technical videos](http://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/)
 
-# Resources
+# Related Resources
 
-## Related Products
+## Products
 * [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
 * [Visual Studio Code](https://code.visualstudio.com)
 * [Team Foundation Server](https://www.visualstudio.com/en-us/news/releasenotes/tfs2017-relnotes) (release notes + download)
 * [Visual Studio Mobile Center](https://mobile.azure.com/)
 * [.NET](https://www.microsoft.com/net)
 
-## Related Blogs
+## Blogs
 * [Visual Studio Team Blog](https://blogs.msdn.microsoft.com/visualstudio/) - Official Visual Studio product team blog (Visual Studio Community, Professional and Enterprise)
 * [Visual Studio Code Blog](https://code.visualstudio.com/) - Official Visual Studio Code team blog
 * [Microsoft Application Lifecycle Management (ALM)](https://blogs.msdn.microsoft.com/visualstudioalm/) - Official Microsoft blog that contains posts on ALM topics such as [Release Management](https://blogs.msdn.microsoft.com/visualstudioalm/tag/release-management/), [Testing](https://blogs.msdn.microsoft.com/visualstudioalm/tag/testing/) and [Team Foundation Server](https://blogs.msdn.microsoft.com/visualstudioalm/tag/team-foundation-server/). This blog also hosts content on Visual Studio [diagnostics](https://blogs.msdn.microsoft.com/visualstudioalm/tag/diagnostics/)
 
-## Related Social
+## Social
 * [@Visual Studio](https://www.twitter.com/VisualStudio) - Official Twitter for Visual Studio product family
 * [@Code](https://twitter.com/code) - Official Twitter for Visual Studio Code
 
