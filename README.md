@@ -11,7 +11,7 @@ Also see: [Features List](https://www.visualstudio.com/vs/features/) | [Release 
 A list of blog posts from both the Visual Studio 2017 March launch event and related posts that were released in the lead-up to the RTM release.
 
 | Topic                     | Blog Title                                        |
-|---------------------------|---------------------------------------------------|
+|:---------------------------|:---------------------------------------------------|
 | General                   | [Visual Studio Team Blog: Announcing Visual Studio 2017 General Availability… and more](https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/announcing-visual-studio-2017-general-availability-and-more/) |
 |                           | [Visual Studio 2017: Productivity, Performance, and Partners](https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/visual-studio-2017-productivity-performance-and-partners/)
 | Developer Productivity    | [Optimize your productivity with .NET in Visual Studio 2017](https://blogs.msdn.microsoft.com/visualstudio/2017/03/08/optimize-your-productivity-with-net-in-visual-studio-2017-2/) |
