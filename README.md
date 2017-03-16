@@ -1,4 +1,4 @@
-# Visual Studio 2017 - Catalog
+# Visual Studio 2017 - Comprehensive Resources Index
 [Visual Studio 2017](https://www.visualstudio.com) is now available and I created this unofficial GitHub repo to help developers find various related downloads, documentation and learning resources such as videos or blogs related to this milestone. 
 
 [**Download Visual Studio 2017**](https://www.visualstudio.com/vs/whatsnew/)
