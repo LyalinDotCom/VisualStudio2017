@@ -50,7 +50,12 @@ A list of blog posts from both the Visual Studio 2017 March launch event and rel
 _Please note that Visual Studio 2017 is referenced as "Dev15" or Visual Studio "15" in older blog post before we announced the final product naming at the launch event_
 
 ## Videos
+### Full Launch Event Video Catalog
 * [Channel 9: Visual Studio 2017 Keynotes & on-demand technical videos](http://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/)
+
+### Visual Studio 2017 Launch event training courses
+* [Training Course: Web Development](https://www.youtube.com/playlist?list=PLReL099Y5nRfZ34LXjYCvSB1Ct4BboB99)
+* [Training Course: Application  Development](https://www.youtube.com/playlist?list=PLReL099Y5nRf1WeWq9SSF2Go85OhVUcGl)
 
 # Related Resources
 
