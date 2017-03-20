@@ -43,6 +43,7 @@ A list of blog posts from both the Visual Studio 2017 March launch event and rel
 | JavaScript                | [Previewing Salsa – the New JavaScript Language Service in Visual Studio "15"](https://blogs.msdn.microsoft.com/visualstudio/2016/04/08/previewing-salsa-javascript-language-service-visual-studio-15/)
 |                           | [More Productive JavaScript in Visual Studio 2017 RC](https://blogs.msdn.microsoft.com/visualstudio/2016/11/28/more-productive-javascript-in-visual-studio-2017-rc/)
 | Programs & Benefits       | [New benefits for Visual Studio subscribers and Dev Essentials members](https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/new-benefits-for-visual-studio-subscribers-and-dev-essentials-members/)
+| NuGet                     | [Announcing NuGet 4.0 RTM](http://blog.nuget.org/20170308/Announcing-NuGet-4.0-RTM.html)
 | Extensibility (IDE)       | [Extensibility in Visual Studio “15”: Increasing Reliability and Performance](https://blogs.msdn.microsoft.com/visualstudio/2016/11/10/extensibility-in-visual-studio-15-increasing-reliability-and-performance/)
 | Misc.                     | [Iterations on infinity - how we created the new Visual Studio 2017 icon](https://blogs.msdn.microsoft.com/visualstudio/2017/03/08/iterations-on-infinity/) |
 |                           | [Extend your App Success with Visual Studio 2017 Launch Partners](https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/extend-your-app-success-with-visual-studio-2017-launch-partners/)
@@ -68,8 +69,18 @@ _Please note that Visual Studio 2017 is referenced as "Dev15" or Visual Studio "
 
 ## Blogs
 * [Visual Studio Team Blog](https://blogs.msdn.microsoft.com/visualstudio/) - Official Visual Studio product team blog (Visual Studio Community, Professional and Enterprise)
-* [Visual Studio Code Blog](https://code.visualstudio.com/) - Official Visual Studio Code team blog
-* [Microsoft Application Lifecycle Management (ALM)](https://blogs.msdn.microsoft.com/visualstudioalm/) - Official Microsoft blog that contains posts on ALM topics such as [Release Management](https://blogs.msdn.microsoft.com/visualstudioalm/tag/release-management/), [Testing](https://blogs.msdn.microsoft.com/visualstudioalm/tag/testing/) and [Team Foundation Server](https://blogs.msdn.microsoft.com/visualstudioalm/tag/team-foundation-server/). This blog also hosts content on Visual Studio [diagnostics](https://blogs.msdn.microsoft.com/visualstudioalm/tag/diagnostics/)
+* [Visual Studio Code Product Blog](https://code.visualstudio.com/) - Official Visual Studio Code team blog
+* [.NET Team Blog](https://blogs.msdn.microsoft.com/dotnet/)
+* [.NET Web Development and Tools Blog](https://blogs.msdn.microsoft.com/webdev/)
+* [Visual C++ Team Blog](https://blogs.msdn.microsoft.com/vcblog/)
+* [Visual Studio Tools for Python Blog](https://blogs.msdn.microsoft.com/pythonengineering/) - including both tooling and other wider Python engineering topics
+* [TypeScript Blog](https://blogs.msdn.microsoft.com/typescript/)
+* [Microsoft Application Lifecycle Management (ALM) Blog](https://blogs.msdn.microsoft.com/visualstudioalm/) - Official Microsoft blog that contains posts on ALM topics such as [Release Management](https://blogs.msdn.microsoft.com/visualstudioalm/tag/release-management/), [Testing](https://blogs.msdn.microsoft.com/visualstudioalm/tag/testing/) and [Team Foundation Server](https://blogs.msdn.microsoft.com/visualstudioalm/tag/team-foundation-server/). This blog also hosts content on Visual Studio [diagnostics](https://blogs.msdn.microsoft.com/visualstudioalm/tag/diagnostics/)
+* [Alpha Geek - DevDiv thought leadership blog](https://blogs.msdn.microsoft.com/alphageek/)
+* [Azure Blog](https://azure.microsoft.com/en-us/blog/)
+* [Office Developer Blog](https://blogs.office.com/?filter=true&filter-audience=dev)
+* [NuGet.org Blog](http://blog.nuget.org/)
+* [Microsoft Edge Developer](https://blogs.windows.com/msedgedev/)
 
 ## Social
 * [@Visual Studio](https://www.twitter.com/VisualStudio) - Official Twitter for Visual Studio product family
