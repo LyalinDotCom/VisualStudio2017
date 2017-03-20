@@ -58,6 +58,10 @@ _Please note that Visual Studio 2017 is referenced as "Dev15" or Visual Studio "
 * [Training Course: Web Development](https://www.youtube.com/playlist?list=PLReL099Y5nRfZ34LXjYCvSB1Ct4BboB99)
 * [Training Course: Application  Development](https://www.youtube.com/playlist?list=PLReL099Y5nRf1WeWq9SSF2Go85OhVUcGl)
 
+## Offers & Programs
+* [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/) - Free tools, cloud services, and training
+* [Visual Studio Partner Offers](https://vspartner.com/vspartneroffers) - Limited time offers from various Visual Studio partners in support of the Visual Studio 2017 launch event
+
 # Related Resources
 
 ## Code Editors & IDE
@@ -76,6 +80,9 @@ _Please note that Visual Studio 2017 is referenced as "Dev15" or Visual Studio "
 
 ## Cloud Development
 * [Microsoft Azure](http://www.azure.com)
+
+## Extensability
+* [Visual Studio Marketplace](http://marketplace.visualstudio.com/) - Extensions marketplace for Visual Studio, Visual Studio Code and Team Services
 
 ## Blogs
 * [Visual Studio Team Blog](https://blogs.msdn.microsoft.com/visualstudio/) - Official Visual Studio product team blog (Visual Studio Community, Professional and Enterprise)
