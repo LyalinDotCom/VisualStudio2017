@@ -60,12 +60,22 @@ _Please note that Visual Studio 2017 is referenced as "Dev15" or Visual Studio "
 
 # Related Resources
 
-## Products
+## Code Editors & IDE
 * [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
 * [Visual Studio Code](https://code.visualstudio.com)
-* [Team Foundation Server](https://www.visualstudio.com/en-us/news/releasenotes/tfs2017-relnotes) (release notes + download)
-* [Visual Studio Mobile Center](https://mobile.azure.com/)
+
+## Appliaction Lifecycle Management & DevOps
+* [Visual Studio Team Services](https://www.visualstudio.com/team-services/) - Agile. Git. Continuous integration, Microsoft cloud version of Team Foundation Server
+* [Team Foundation Server](https://www.visualstudio.com/en-us/news/releasenotes/tfs2017-relnotes) - On-premises ALM solution (release notes + download)
+
+## Mobile Development
+* [Visual Studio Mobile Center](https://mobile.azure.com/) - Automatically build, test (on real devices) and dsitrbiute your mobile iOS, Android and Windows apps to testers. Also integrates crash reporting, user analytics and more.
+
+## Languages & Frameworks
 * [.NET](https://www.microsoft.com/net)
+
+## Cloud Development
+* [Microsoft Azure](http://www.azure.com)
 
 ## Blogs
 * [Visual Studio Team Blog](https://blogs.msdn.microsoft.com/visualstudio/) - Official Visual Studio product team blog (Visual Studio Community, Professional and Enterprise)
