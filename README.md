@@ -40,6 +40,8 @@ A list of blog posts from both the Visual Studio 2017 March launch event and rel
 |                           | [Visual Studio 2017 for C++ developers – you will love it](https://blogs.msdn.microsoft.com/vcblog/2017/03/07/visual-studio-2017-for-c-developers-you-will-love-it/) |
 |                           | [What’s new with IncrediBuild and Visual Studio 2017](https://blogs.msdn.microsoft.com/vcblog/2017/03/13/whats-new-with-incredibuild-and-visual-studio-2017/) |
 |                           | [Faster C++ solution load and build performance with Visual Studio “15”](https://blogs.msdn.microsoft.com/visualstudio/2016/10/13/faster-c-solution-load-and-build-performance-with-visual-studio-15/)
+|                           | [Visual C++ for Linux Development](http://aka.ms/vslinux)
+|                           | [Targeting the Windows Subsystem for Linux from Visual Studio](https://blogs.msdn.microsoft.com/vcblog/2017/02/08/targeting-windows-subsystem-for-linux-from-visual-studio/)
 | JavaScript                | [Previewing Salsa – the New JavaScript Language Service in Visual Studio "15"](https://blogs.msdn.microsoft.com/visualstudio/2016/04/08/previewing-salsa-javascript-language-service-visual-studio-15/)
 |                           | [More Productive JavaScript in Visual Studio 2017 RC](https://blogs.msdn.microsoft.com/visualstudio/2016/11/28/more-productive-javascript-in-visual-studio-2017-rc/)
 | Programs & Benefits       | [New benefits for Visual Studio subscribers and Dev Essentials members](https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/new-benefits-for-visual-studio-subscribers-and-dev-essentials-members/)
